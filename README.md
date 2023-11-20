@@ -1,8 +1,11 @@
-# React + Vite
+# Mahad Tahfidz UIN SGD Official Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Website Resmi Mahad Tahfidz UIN Sunan Gunung Djati Bandung
 
-Currently, two official plugins are available:
+Tech Stack yang digunakan:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Framework React js + Vite
+- Tailwind CSS
+
+![alt text]('/public/mobile.png')
+![alt text](<'/public/mobile(1).png'>)
