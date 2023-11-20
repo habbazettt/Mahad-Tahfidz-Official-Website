@@ -7,5 +7,5 @@ Tech Stack yang digunakan:
 - Framework React js + Vite
 - Tailwind CSS
 
-![alt text]('/public/mobile.png')
-![alt text](<'/public/mobile(1).png'>)
+![alt text](https://github.com/habbazettt/Mahad-Tahfidz-Official-Website/blob/main/public/mobile.png?raw=true)
+![alt text](<https://github.com/habbazettt/Mahad-Tahfidz-Official-Website/blob/main/public/mobile(1).png?raw=true>)
