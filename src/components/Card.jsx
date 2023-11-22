@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 const Card = ({ gambar, judul, deskripsi }) => {
     return (
-        <div className=" flex flex-col gap-4 bg-white rounded-md shadow-xl w-[340px] md:w-[340px] h-[480px] mx-auto">
+        <div className=" flex flex-col items-center justify-center gap-4 bg-white rounded-md shadow-xl w-[300px] h-[480px]">
             <img
                 src={gambar}
                 className="rounded-md rounded-b-none w-full max-h-[200px] object-cover bg-center"

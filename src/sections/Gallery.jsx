@@ -23,8 +23,6 @@ const Gallery = () => {
                     <img src="/gallery/gallery-9.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-10.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-11.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
-                    <img src="/gallery/gallery-12.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
-                    <img src="/gallery/gallery-13.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-14.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-15.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-16.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
@@ -46,13 +44,11 @@ const Gallery = () => {
                     <img src="/gallery/gallery-34.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-35.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-36.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
-                    <img src="/gallery/gallery-37.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-38.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-39.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-40.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-41.jpg" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-42.jpg" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
-                    <img src="/gallery/gallery-43.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-44.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-45.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-46.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
@@ -60,7 +56,6 @@ const Gallery = () => {
                     <img src="/gallery/gallery-48.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-49.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-50.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
-                    <img src="/gallery/gallery-51.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-52.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-53.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-54.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
@@ -75,18 +70,14 @@ const Gallery = () => {
                     <img src="/gallery/gallery-69.jpg" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-70.jpeg" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-71.jpg" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
-                    <img src="/gallery/gallery-72.jpg" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-73.jpg" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-74.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
-                    <img src="/gallery/gallery-75.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-76.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-77.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-78.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
-                    <img src="/gallery/gallery-79.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-80.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-81.JPG" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-82.jpg" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
-                    <img src="/gallery/gallery-83.jpg" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-84.jpg" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-85.jpg" className="rounded-lg hover:shadow-2xl ease-in duration-300" />
                     <img src="/gallery/gallery-86.jpg" className="rounded-lg hover:shadow-2xl ease-in duration-300" />

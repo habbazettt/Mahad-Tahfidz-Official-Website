@@ -11,7 +11,7 @@ const KegiatanKami = () => {
         <div className="flex flex-col gap-10 w-full mt-0 md:mt-20">
             <h1 className="font-bold md:text-5xl text-3xl text-center" data-aos='fade-right' data-aos-duration='1500'><span className="text-blue-900">Kegiatan</span> Rutin</h1>
 
-            <div className="flex flex-wrap gap-8">
+            <div className="flex justify-center items-center flex-wrap gap-8">
                 <div data-aos='fade-right' data-aos-duration='1500' data-aos-delay='200' className="flex justify-center items-center mx-auto">
                     <Card
                         gambar="/sholat-jamaah.jpg"
