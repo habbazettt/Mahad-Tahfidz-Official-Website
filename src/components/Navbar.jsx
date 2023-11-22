@@ -34,7 +34,7 @@ const Navbar = () => {
                 <div className='flex items-center justify-between h-16'>
                     <div className='flex items-end gap-2 md:gap-4'>
                         <img
-                            src='../../public/logo.svg'
+                            src='logo.svg'
                             width={46}
                         />
                         <h1 className="text-white font-light text-[14px] md:text-[18px] leading-normal">Website Resmi <br />Mahad Tahfidz Al-Quran</h1>
