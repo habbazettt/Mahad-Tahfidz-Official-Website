@@ -29,7 +29,7 @@ const Footer = () => {
                 <div className='gap-5'>
                     <div className='flex gap-3 items-center'>
                         <img
-                            src='../../public/logo.svg'
+                            src='/logo.svg'
                             width={54}
                         />
                         <h1 className="text-white text-[17px] md:text-[20px] leading-normal">Website Resmi <br />Mahad Tahfidz Al-Quran</h1>
@@ -66,7 +66,7 @@ const Footer = () => {
                 </div>
                 <div className=' flex flex-col gap-5 -mt-8 items-center'>
                     <img
-                        src='/public/mahadFullColor.svg'
+                        src='/mahadFullColor.svg'
                         width={200}
                     />
 

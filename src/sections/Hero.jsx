@@ -10,7 +10,7 @@ const Hero = () => {
         <div className="w-full max-h-screen ">
             <div className="relative mt-14 md:mt-0">
                 <img
-                    src="/public/hero3.JPG"
+                    src="/hero3.JPG"
                     alt="hero image"
                     className="top-0 left-0 w-screen h-screen object-cover"
                 />
@@ -27,7 +27,7 @@ const Hero = () => {
                         </div>
                         <div className="flex justify-center items-center ml-0 md:ml-40">
                             <img
-                                src="/public/mahadFullColor.svg"
+                                src="/mahadFullColor.svg"
                                 className="w-[300px] sm:w-[400px]"
                             />
                         </div>

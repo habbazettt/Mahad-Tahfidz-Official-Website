@@ -14,7 +14,7 @@ const KegiatanKami = () => {
             <div className="flex flex-wrap gap-8">
                 <div data-aos='fade-right' data-aos-duration='1500' data-aos-delay='200' className="flex justify-center items-center mx-auto">
                     <Card
-                        gambar="/public/sholat-jamaah.jpg"
+                        gambar="/sholat-jamaah.jpg"
                         judul="Sholat Berjamaah"
                         deskripsi="Di Ma'had Tahfidz UIN Sunan Gunung Djati Bandung, kegiatan shalat berjamaah menjadi inti spiritualitas para santri. Setiap hari, shalat Shubuh, Maghrib, dan Isya dilaksanakan di Gedung Moderasi Beragama, menciptakan suasana kekhusukan dan kebersamaan."
                     />
@@ -22,7 +22,7 @@ const KegiatanKami = () => {
 
                 <div data-aos='fade-right' data-aos-duration='1500' data-aos-delay='250' className="flex justify-center items-center mx-auto">
                     <Card
-                        gambar="/public/halaqoh-tasmi.jpg"
+                        gambar="/halaqoh-tasmi.jpg"
                         judul="Halaqoh Tahfidz"
                         deskripsi="Setiap pagi dan malam, Ma'had Tahfidz UIN Sunan Gunung Djati Bandung menyelenggarakan Halaqah Tahfidz. Para santri dengan penuh semangat menyetorkan hafalan ziyadah Al-Quran dan melakukan murojaah hafalan kepada mentor halaqah masing-masing."
                     />
@@ -30,7 +30,7 @@ const KegiatanKami = () => {
 
                 <div data-aos='fade-right' data-aos-duration='1500' data-aos-delay='300' className="flex justify-center items-center mx-auto">
                     <Card
-                        gambar="/public/barzanji.JPG"
+                        gambar="/barzanji.JPG"
                         judul="Maulid Al-Barzanji"
                         deskripsi="Setiap malam Jum'at di Ma'had Tahfidz UIN Sunan Gunung Djati Bandung, santri mengisi waktu dengan kegiatan shalawatan mingguan atau Barzanji. Dalam ungkapan cinta kepada Nabi Muhammad SAW, melantunkan shalawat yang penuh kekhidmatan."
                     />
@@ -38,7 +38,7 @@ const KegiatanKami = () => {
 
                 <div data-aos='fade-right' data-aos-duration='1500' data-aos-delay='400' className="flex justify-center items-center mx-auto">
                     <Card
-                        gambar="/public/kajian-kitab.jpg"
+                        gambar="/kajian-kitab.jpg"
                         judul="Kajian Kitab"
                         deskripsi="Setiap minggu, Ma'had Tahfidz UIN Sunan Gunung Djati Bandung menggelar kajian kitab sebagai bagian integral dari pembinaan keilmuan santri. Kajian melibatkan kitab-kitab penting seperti Tafsir, Ulumul Quran, dan Qiraah Sab'ah."
                     />
@@ -46,7 +46,7 @@ const KegiatanKami = () => {
 
                 <div data-aos='fade-right' data-aos-duration='1500' data-aos-delay='450' className="flex justify-center items-center mx-auto">
                     <Card
-                        gambar="/public/olahraga-2.JPG"
+                        gambar="/olahraga-2.JPG"
                         judul="Olahraga Weekend"
                         deskripsi="Di Ma'had Tahfidz UIN Sunan Gunung Djati Bandung, kegiatan olahraga mingguan menjadi bagian integral dari pola hidup sehat dan seimbang para santri. Setiap Minggu pagi, para santri bersemangat mengikuti sesi senam bersama untuk menjaga kebugaran tubuh."
                     />
@@ -54,7 +54,7 @@ const KegiatanKami = () => {
 
                 <div data-aos='fade-right' data-aos-duration='1500' data-aos-delay='500' className="flex justify-center items-center mx-auto">
                     <Card
-                        gambar="/public/moderasi-tasmi.jpg"
+                        gambar="/moderasi-tasmi.jpg"
                         judul="Tasmi Bil Ghoib"
                         deskripsi="Simaan Al-Quran Bilghoib di Ma'had Tahfidz UIN Sunan Gunung Djati Bandung merupakan kegiatan unik di mana mahasantri membaca hafalan Al-Quran tanpa melihat naskah, secara langsung di mic."
                     />
