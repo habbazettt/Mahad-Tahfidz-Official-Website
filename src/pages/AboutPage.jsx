@@ -35,7 +35,7 @@ const AboutPage = () => {
 
                         <div className="flex flex-col justify-center items-center gap-3">
                             <img
-                                src="/public/Abi-Asep.jpeg"
+                                src="Abi-Asep.jpeg"
                                 className="rounded-lg shadow-xl"
                                 width={300}
                                 data-aos='fade-right' data-aos-duration='1500' data-aos-delay='300'
