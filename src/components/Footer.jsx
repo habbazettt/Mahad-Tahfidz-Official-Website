@@ -24,7 +24,7 @@ const navLinks = [
 const Footer = () => {
     return (
         <div>
-            <ScrollToTop smooth className='flex justify-center items-center bg-blue-800 hover:bg-blue-900 duration-300 ease-in' component={<FaArrowUp />} />
+            <ScrollToTop smooth className='flex justify-center items-center' component={<FaArrowUp className='text-black' />} />
             <div className='max-w-[1300px] mx-auto py-12 px-4 grid grid-cols-1 lg:grid-cols-3 gap-10 text-white justify-between'>
                 <div className='gap-5'>
                     <div className='flex gap-3 items-center'>
