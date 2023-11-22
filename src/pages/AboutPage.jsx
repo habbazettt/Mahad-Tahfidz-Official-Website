@@ -21,7 +21,7 @@ const AboutPage = () => {
                 </div>
 
                 <div className="px-5 lg:px-10 mt-3 lg:mt-4 font-light" data-aos='fade-right' data-aos-duration='1500' data-aos-delay='300'>
-                    <h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</h1>
+                    <p>Ma&apos;had Tahfidz UIN Sunan Gunung Djati Bandung adalah lembaga yang merupakan bagian dari kampus UIN Sunan Gunung Djati Bandung. Ditempati oleh mahasiswa aktif UIN Bandung yang berhasil lolos melalui jalur mandiri tahfidz, ma&apos;had ini menyediakan asrama untuk santri putra dan putri. Fokus utamanya adalah pada program Tahfidzul Quran, menciptakan lingkungan yang mendukung penghafalan Al-Quran. Terletak di kecamatan Cileunyi, Ma&apos;had Tahfidz UIN Sunan Gunung Djati Bandung menjadi pusat pembinaan keilmuan dan keagamaan bagi mahasiswa yang berkomitmen pada pengembangan diri melalui tahfidz Al-Quran.</p>
                 </div>
 
                 <div className="px-5 lg:px-10 mt-3 lg:mt-4 font-light" data-aos='fade-right' data-aos-duration='1500' data-aos-delay='400'>

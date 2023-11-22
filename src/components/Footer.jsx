@@ -51,7 +51,7 @@ const Footer = () => {
                         </div>
 
                         <div className='p-3 bg-blue-800 hover:bg-transparent hover:border-white hover:ring-2 duration-300 ease-in rounded-lg'>
-                            <a href='https://github.com/habbazettt' target='_blank' rel='noreferrer'><FaGithub size={26} /></a>
+                            <a href='https://github.com/habbazettt/Mahad-Tahfidz-Official-Website' target='_blank' rel='noreferrer'><FaGithub size={26} /></a>
                         </div>
                     </div>
                 </div>
